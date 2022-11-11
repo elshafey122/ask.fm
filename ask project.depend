@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664275272 source:e:\programs\codeblocks\c++ files\ask project\main.cpp
+	<iostream>
+	<vector>
+	<vector>
+	<sstream>
+	<iostream>
+	<assert.h>
+
+1664279443 source:e:\c++\course moustafa saad mastering c++\my projects\ask project\main.cpp
+	<iostream>
+	<vector>
+
+1665726431 source:e:\courses\c++\course moustafa saad mastering c++\my projects\ask project\main.cpp
+	<iostream>
+	<vector>
+
